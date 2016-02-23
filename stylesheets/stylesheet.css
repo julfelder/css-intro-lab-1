@@ -22,7 +22,10 @@ body {
   text-align: left;
   background-color: #3F0;
 }
-
+Div section {
+  background-color: blue;
+  
+}
 section {
     margin: 3em 0;
 }
